@@ -21,9 +21,11 @@
     padding: 30px;
 }
 
-#title p{
+#title q{
     position: relative; 
     bottom: 5px; 
+    width: 100%;
+    font-size: 1.25em;
 
 }
 #img-div{
@@ -36,10 +38,10 @@
 
 #image{
   width: 100%;
-    height: auto;
-       max-width: 100%;
+
+    max-width: 100%;
     display: block;
-    height: auto;
+  height: auto;
     margin: 0 auto;
 }
 #img-caption{
