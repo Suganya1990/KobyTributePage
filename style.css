@@ -1,0 +1,86 @@
+*{
+    margin: 0; 
+    padding: 0;
+}
+#main{
+    margin: 0; 
+    padding: 0;
+    background-color: rgba(73,70, 71, 0.15)
+
+    
+}
+
+#title{
+  
+    display: stretch; 
+    text-align: center;
+}
+#title h1{
+    font-size: 75px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 30px;
+}
+
+#title p{
+    position: relative; 
+    bottom: 5px; 
+
+}
+#img-div{
+
+      background: white;
+    padding: 10px;
+    margin: 0;
+}
+
+
+#image{
+  width: 100%;
+    height: auto;
+       max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-caption{
+   display: block;
+    text-align: center;
+}
+#img-div caption{
+    display: block;
+    text-align: center;
+}
+#tribute-info{
+    margin-right: 30%;
+    margin-left: 30%;
+    padding-left: 30px; 
+    
+}
+#tributeCaption{
+
+ text-align: center;
+ font-size: 20px;
+ padding: 1%;
+}
+
+#tribute-info ul{
+    text-align: left;
+  
+}
+
+#tribute-info li{
+    margin-top: 30px;
+
+
+}
+
+#quote{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+#quote p{
+    padding: 10px;;
+}
